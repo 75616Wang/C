@@ -24,15 +24,12 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="GaussMethed.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="数值方法实验2.cpp">
+    <ClCompile Include="算法设计实验2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
